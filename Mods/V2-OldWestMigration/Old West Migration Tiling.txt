@@ -110,12 +110,13 @@ oldwest_survivor_site_09 - CONVERSION - (T1 C+F+I)
 oldwest_survivor_site_11 - CONVERSION - (T1 C+F+I)
 remnant_oldwest_04 (Deco) - CONVERSION - (T1 C+F+I)
 
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 3
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Infested (C+F+I) = 4
 oldwest_abandoned_house_02 (T1 C+F+I)
 oldwest_stables_01 (T1 C+F+I)
 oldwest_station_02 (T1 C+F+I)
+oldwest_stables_03 (T1 C+F+I)
 
-OVERALL TOTAL = 32					  
+OVERALL TOTAL = 33					  
 
 =========================================
 = QUEST TIER 2 CLEAR + FETCH + INFESTED =
@@ -229,8 +230,8 @@ This explains the reason for Quest Tier 6 for Infested connected to Quest Tier 5
 ================
 QUEST TIER 1 CLEAR + FETCH = 4
 QUEST TIER 1 CLEAR + INFESTED = 5
-QUEST TIER 1 CLEAR + FETCH + INFESTED = 32
-OVERALL TOTAL = 41 Base
+QUEST TIER 1 CLEAR + FETCH + INFESTED = 33
+OVERALL TOTAL = 42 Base
 
 ================
 = QUEST TIER 2 =
@@ -263,7 +264,7 @@ OVERALL TOTAL = 5 Base + Infested expansion from T4
 OVERALL TOTAL = 5 Infested expansion from T5
 
 ---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 96 Base + Expanded Infested Upgrade Variants for V1 Old West Migration Mod.
+OVERALL TOTALS = 97 Base + Expanded Infested Upgrade Variants for V2 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ---------------------------------------------------------------------------------------------
 

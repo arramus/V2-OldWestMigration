@@ -1,6 +1,6 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
 
-oldwest_25x50_corn_01_arramus,POI,POIName,,x,Super Special Catacorn,,,,,,,,,,,,,
+oldwest_25x50_corn_01_arramus,POI,POIName,,x,Mr T's Super Special Catacorn,,,,,,,,,,,,,
 oldwest_abandoned_house_01,POI,POIName,,x,ABA Law School,,,,,,,,,,,,,
 oldwest_abandoned_house_02,POI,POIName,,x,Musical Mam,,,,,,,,,,,,,
 oldwest_apper_01_arramus,POI,POIName,,x,Stinker Strip,,,,,,,,,,,,,
@@ -50,6 +50,7 @@ oldwest_spectabcem_01_arramus,POI,POIName,,x,Dine Mine Fine,,,,,,,,,,,,,
 oldwest_splint_eastwood_01_arramus,POI,POIName,,x,Splint Eastwood Rural Hospital,,,,,,,,,,,,,
 oldwest_stables_01_arramus,POI,POIName,,x,Gee Gee Stables,,,,,,,,,,,,,
 oldwest_stables_02_arramus,POI,POIName,,x,Twin Stables,,,,,,,,,,,,,
+oldwest_stables_03_arramus,POI,POIName,,x,Gee Bee Stables Saloon,,,,,,,,,,,,,
 oldwest_station_01_arramus,POI,POIName,,x,Corner Station Strip,,,,,,,,,,,,,
 oldwest_station_02_arramus,POI,POIName,,x,Shipper Station,,,,,,,,,,,,,
 oldwest_store_book_04,POI,POIName,,x,The Old West Book Barn,,,,,,,,,,,,,

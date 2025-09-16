@@ -130,10 +130,11 @@ OVERALL TOTAL = 2
 =========================================================
 = QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED =
 =========================================================
-DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 5
+DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 6
 oldwest_cabin_11_TFP - CONVERSION (T2 C+F+RP+I)
 oldwest_remnant_bookshop_business_03 - CONVERSION (T2 C+F+RP+I)
 oldwest_remnant_mill_01 - CONVERSION (T2 C+F+RP+I)
+oldwest_rubble_atomic_burger_filler_13 - CONVERSION (T2 C+F+RP+I)
 oldwest_store_grocery_05 - CONVERSION (T2 C+F+RP+I)
 oldwest_store_grocery_06 - CONVERSION (T2 C+F+RP+I)
 
@@ -158,7 +159,7 @@ oldwest_stables_02 (T2 C+F+RP+I)
 oldwest_sweeney_01 (T2 C+F+RP+I)						  
 oldwest_tobacco_01 (T2 C+F+RP+I)
 
-OVERALL TOTAL = 24
+OVERALL TOTAL = 25
 
 =========================================================
 = QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -237,8 +238,8 @@ OVERALL TOTAL = 42 Base
 = QUEST TIER 2 =
 ================
 QUEST TIER 2 CLEAR + FETCH + INFESTED = 2
-QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 24
-OVERALL TOTAL = 26 Base + Infested expansion from T1
+QUEST TIER 2 CLEAR + FETCH + RESTORE POWER + INFESTED = 25
+OVERALL TOTAL = 27 Base + Infested expansion from T1
 
 ================
 = QUEST TIER 3 =
@@ -264,7 +265,7 @@ OVERALL TOTAL = 5 Base + Infested expansion from T4
 OVERALL TOTAL = 5 Infested expansion from T5
 
 ---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 97 Base + Expanded Infested Upgrade Variants for V2 Old West Migration Mod.
+OVERALL TOTALS = 98 Base + Expanded Infested Upgrade Variants for V2 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ---------------------------------------------------------------------------------------------
 

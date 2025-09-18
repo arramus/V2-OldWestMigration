@@ -1,6 +1,7 @@
 Key,File,Type,UsedInMainMenu,NoTranslate,english,Context / Alternate Text,german,spanish,french,italian,japanese,koreana,polish,brazilian,russian,turkish,schinese,tchinese
 
 oldwest_25x50_corn_01_arramus,POI,POIName,,x,Mr T's Super Special Catacorn,,,,,,,,,,,,,
+oldwest_A19_skyscraper_02,POI,POIName,,x,Old West Classic Crack-a-Book HQ,,,,,,,,,,,,,
 oldwest_abandoned_house_01,POI,POIName,,x,ABA Law School,,,,,,,,,,,,,
 oldwest_abandoned_house_02,POI,POIName,,x,Musical Mam,,,,,,,,,,,,,
 oldwest_apper_01_arramus,POI,POIName,,x,Stinker Strip,,,,,,,,,,,,,

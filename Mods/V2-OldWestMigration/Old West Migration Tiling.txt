@@ -168,7 +168,7 @@ DEFAULT TFP POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 2
 oldwest_country_junkyard_01 - CONVERSION (T3 C+F+RP+I)
 oldwest_junkville_saloon - CONVERSION (T3 C+F+RP+I)
 
-CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 13
+CUSTOM OLD WEST MIGRATION POIS Clear + Fetch + Restore Power + Infested (C+F+RP+I) = 14
 oldwest_apper_01 (T3 C+F+RP+I)
 oldwest_bank_01 (T3 C+F+RP+I)
 oldwest_bony_xpress_01 (T3 C+F+RP+I)
@@ -181,9 +181,10 @@ oldwest_mine_01 (T3 C+F+RP+I)
 oldwest_mixstrip_01 (T3 C+F+RP+I)
 oldwest_schoolfix_01 (T3 C+F+RP+I)
 oldwest_station_01 (T3 C+F+RP+I)
+oldwest_the_winchester_tavern_01 (T3 C+F+RP+I)
 oldwest_woodpecker_01 (T3 C+F+RP+I)
 
-OVERALL TOTAL = 15
+OVERALL TOTAL = 16
 
 =========================================================
 = QUEST TIER 4 CLEAR + FETCH + RESTORE POWER + INFESTED =
@@ -245,7 +246,7 @@ OVERALL TOTAL = 27 Base + Infested expansion from T1
 ================
 = QUEST TIER 3 =
 ================
-QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 15
+QUEST TIER 3 CLEAR + FETCH + RESTORE POWER + INFESTED = 16
 OVERALL TOTAL = 15 Base + Infested expansion from T2
 
 ================
@@ -266,7 +267,7 @@ OVERALL TOTAL = 6 Base + Infested expansion from T4
 OVERALL TOTAL = 6 Infested expansion from T5
 
 ---------------------------------------------------------------------------------------------
-OVERALL TOTALS = 99 Base + Expanded Infested Upgrade Variants for V2 Old West Migration Mod.
+OVERALL TOTALS = 100 Base + Expanded Infested Upgrade Variants for V2 Old West Migration Mod.
 (Plus any fetch/clear + restore power separation types as per TFP's algorithm)
 ---------------------------------------------------------------------------------------------
 

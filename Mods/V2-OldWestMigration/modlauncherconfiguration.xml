@@ -1,9 +1,10 @@
 <Servers>
-  <ServerGroup Name="Old West Migration (V2)">
-    <Server Name="Old West Migration (V2)" Logo="https://i.imgur.com/kDWn2I7.jpg">
+  <ServerGroup Name="Old West Migration">
+    <Server Name="Old West Migration" Logo="https://i.imgur.com/kDWn2I7.jpg">
       <Description>Old West Town Expansion.
 	  
 Features Include:
+- Updated to current V2 Stable
 - Increases the size of the Old West Town by allowing more town tiles
 - Increases the amount of Old West Town settlements that can appear in the World
 - Adds the chance of a road and Trader leading into an Old West Town
@@ -19,7 +20,7 @@ Features Include:
 Brought to you by arramus.
 
 	  </Description>
-        <Version>V2</Version>
+        <Version>Latest</Version>
 		<RSS/>
         <Excludes></Excludes>
         <ReleaseNotes></ReleaseNotes>
